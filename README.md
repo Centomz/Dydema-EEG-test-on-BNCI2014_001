@@ -1,5 +1,7 @@
 # Testing the Dydema EEG API on public motor-imagery data
 
+![Pipeline and results](readme_header.png)
+
 A small, honest test of the [Dydema](https://dydema.com) EEG classification API ("Wizard") on a public motor-imagery dataset, compared with a classical local baseline. No EEG hardware was used.
 
 I am a 6th-year medical student building a biosignal engineering portfolio (PPG, ECG, EMG, and later EEG). This repository documents one concrete experiment: how well does a hosted classifier, built from a few labeled trials, work on EEG it has never seen?
