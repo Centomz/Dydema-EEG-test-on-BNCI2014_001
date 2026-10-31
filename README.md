@@ -36,7 +36,7 @@ I am a 6th-year medical student building a biosignal engineering portfolio (PPG,
 
 ## Reproduce
 
-Requires Python 3.11 and a Dydema API key (never commit it).
+Requires Python 3.11 and a Dydema API key.
 
 ```bash
 python3.11 -m venv .venv
