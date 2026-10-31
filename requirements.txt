@@ -2,3 +2,5 @@ numpy
 requests
 mne
 moabb
+scikit-learn
+matplotlib
