@@ -1,0 +1,22 @@
+{
+  "task_model_id": "clf_01a192bc023e2ee8337b039333b4fcf0",
+  "n_train": 144,
+  "n_test": 144,
+  "training_report": {
+    "balanced_accuracy": 0.861111,
+    "chance": 0.5,
+    "cv_balanced_accuracy": 0.861111,
+    "cv_session_balanced_accuracy": null,
+    "cv_sessions": null,
+    "cv_fallback_folds": 0,
+    "estimate": "same_session",
+    "warnings": [
+      "Accuracy may be low. Evaluate the task model on independent labeled recordings before relying on it.",
+      "Limited or non-independent labeled trials can make validation optimistic; evaluate on a separate recording session."
+    ]
+  },
+  "heldout_accuracy": 0.9097222222222222,
+  "heldout_balanced_accuracy": 0.9097222222222222,
+  "mean_confidence": 0.813104005777358,
+  "cost_usd_headers": 0.432
+}

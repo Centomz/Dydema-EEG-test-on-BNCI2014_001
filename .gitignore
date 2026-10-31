@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+*.npz
+task_model_id*.txt
+quickstart_*.py
+dydema_motor_imagery.py
+.DS_Store
